@@ -28,8 +28,6 @@ The application fetches movie data from The Movie Database (TMDb) API and displa
 ## App preview
 ![ScreenRecording2024-09-01at6 28 10PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/747cd9fa-78bf-4047-8e07-7eabec8745bb)
 
-*Add screenshots of your app here*
-
 ## Architecture
 
 This project follows Clean Architecture principles to ensure a scalable and maintainable codebase. It is divided into the following layers:
