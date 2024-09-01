@@ -1,0 +1,46 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+
+# Files and Directories created by pub
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+.idea/
+
+# IntelliJ related files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Visual Studio Code related files
+.vscode/
+.history/
+
+# Android related
+*.apk
+*.aar
+*.ap_
+
+
+# iOS related
+*.xcworkspace/
+*.xcuserdatad/
+*.lock
+.build/
+*.xcassets
+Flutter.framework
+Flutter.podspec
+
+# Xcode related
+.DS_Store
+*.ipa
+*.app.dSYM
+
+# Others
+*.log
+*.tmp
+*.swp
